@@ -13,4 +13,13 @@ https://ninhduongsummary.github.io/ninhduongsummary/
 ### category: 
 
 - Normal : bài hằng ngày 
-- Summary: bài tổng hợp 
+- Summary: bài tổng hợp
+
+### post 
+
+https://github.com/ninhduongsummary/ninhduongsummary/tree/main/src/content/posts
+
+### photo 
+
+https://github.com/ninhduongsummary/ninhduongsummary/tree/main/src/assets
+
