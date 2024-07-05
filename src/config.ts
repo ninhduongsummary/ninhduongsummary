@@ -34,17 +34,17 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Archive,
     LinkPreset.About,
     {
-      name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',     // Internal links should not include the base path, as it is automatically added
+      name: 'Threads',
+      url: 'https://www.threads.net/@ninhduong_summary',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/instapx.jpeg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Nội Dung Sến News',
-  bio: "@ninhduong_summary: Blog cá nhân link đến Ninh Dương Story. Năng lượng tích cực và không dùng với mục đích thương mại. Nguyên tắc blog ở đây http://bit.ly/45qJakd",
+  bio: "From Threads @ninhduong_summary",
   links: [
     {
       name: 'Threads',
