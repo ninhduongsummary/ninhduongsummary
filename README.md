@@ -19,7 +19,5 @@ https://ninhduongsummary.github.io/ninhduongsummary/
 
 https://github.com/ninhduongsummary/ninhduongsummary/tree/main/src/content/posts
 
-### photo 
 
-https://github.com/ninhduongsummary/ninhduongsummary/tree/main/src/assets
 
