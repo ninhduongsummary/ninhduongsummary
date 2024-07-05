@@ -20,4 +20,8 @@ https://ninhduongsummary.github.io/ninhduongsummary/
 https://github.com/ninhduongsummary/ninhduongsummary/tree/main/src/content/posts
 
 
+### facebook 
+https://developers.facebook.com/docs/plugins/embedded-posts/
+
+
 
