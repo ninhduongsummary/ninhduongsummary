@@ -1,11 +1,11 @@
 # About
-This is the demo site for [ninhduong_summary](https://www.threads.net/@ninhduong_summary).
+Site Page: [ninhduong_summary](https://www.threads.net/@ninhduong_summary).
 
 - Blog cá nhân link đến [Ninh Dương Story](https://www.facebook.com/NinhDuongStory3616). 
 
 - Năng lượng tích cực và không dùng với mục đích thương mại. 
 
-- Nguyên tắc blog ở đây
+- Nguyên tắc blog ở đây:
 
 ```
 
