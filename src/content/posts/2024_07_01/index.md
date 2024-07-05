@@ -11,7 +11,7 @@ draft: false
 
 ### Ninh cập nhật story IG 
 
-<img src="story1.jpg"  width="200">
+<img src="./story1.jpg"  width="200">
 
 
 ## Hậu trường từ bật nhạc lên 
@@ -30,8 +30,6 @@ NDS x Đức Phúc: lời cám ơn
 ### The Pizza Company
 
 NDS x The Pizza Company: Xem lại event 30/06 
-
-https://www.facebook.com/share/p/twJfB3wp6BBNgqAn/
 
 
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@thepizzacompanyvietnam/video/7386659065620958470" data-video-id="7386659065620958470" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@thepizzacompanyvietnam" href="https://www.tiktok.com/@thepizzacompanyvietnam?refer=embed">@thepizzacompanyvietnam</a> <p>Event: VŨ TRỤ NGON VĨBE với sự xuất hiện của các sếp ngoan xinh iu 😎 và lộ diện Pizza So Deep Vĩbe!</p> <a target="_blank" title="♬ original sound  - The Pizza Company Vietnam" href="https://www.tiktok.com/music/original-sound-The-Pizza-Company-Vietnam-7386659098866715397?refer=embed">♬ original sound  - The Pizza Company Vietnam</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
