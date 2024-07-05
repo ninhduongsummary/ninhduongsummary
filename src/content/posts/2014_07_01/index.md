@@ -9,7 +9,7 @@ draft: false
 
 ### Ninh cập nhật story IG 
 
-<img src="2014_07_01/story1.jpg" width = 200 /> 
+<img src="story1.jpg" width = 200 /> 
 
 
 ### Hậu trường từ bật nhạc lên 
