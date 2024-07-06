@@ -14,14 +14,13 @@ https://ninhduongsummary.github.io/ninhduongsummary/
 
 - Normal : bài hằng ngày 
 - Summary: bài tổng hợp
+- Mine: bài viết cá nhân
+- Hightlight: quan trọng
 
 ### post 
 
 https://github.com/ninhduongsummary/ninhduongsummary/tree/main/src/content/posts
 
-
-### facebook 
-https://developers.facebook.com/docs/plugins/embedded-posts/
 
 
 
