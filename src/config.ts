@@ -17,7 +17,7 @@ export const siteConfig: SiteConfig = {
   banner: {
     enable: true,
     src: 'assets/images/ninhduong_banner_vietnam_travel.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-    position: 'center', // Equivalent to object-position, defaults center
+    position: 'bottom', // Equivalent to object-position, defaults center
   },
   favicon: [    // Leave this array empty to use the default favicon
     // {
