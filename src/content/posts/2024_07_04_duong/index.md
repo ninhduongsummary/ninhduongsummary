@@ -2,7 +2,7 @@
 title: Tùng Dương chia sẻ thông tin
 published: 2024-07-04
 description: "Tùng Dương chia sẽ thông tin đến mọi người trong group Chú Ninh - Anh Âm Và Những Sự Vô Tree."
-image: "./cover.jpeg"
+image: "./cover.jpg"
 tags: ["nds"]
 category: Hightlight
 draft: false
