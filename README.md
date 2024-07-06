@@ -12,7 +12,7 @@ https://ninhduongsummary.github.io/ninhduongsummary/
 
 ### category: 
 
-- Normal : bài hằng ngày 
+- Daily : bài hằng ngày 
 - Summary: bài tổng hợp
 - Mine: bài viết cá nhân
 - Hightlight: quan trọng
