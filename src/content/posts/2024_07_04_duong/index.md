@@ -4,7 +4,7 @@ published: 2024-07-04
 description: "Tùng Dương chia sẽ thông tin đến mọi người trong group Chú Ninh - Anh Âm Và Những Sự Vô Tree."
 image: "./cover.jpg"
 tags: ["nds"]
-category: Hightlight
+category: Highlight
 draft: false
 ---
 
