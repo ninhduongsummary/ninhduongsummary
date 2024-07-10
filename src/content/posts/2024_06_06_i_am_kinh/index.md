@@ -4,7 +4,7 @@ published: 2024-06-06
 description: "I'm Kính"
 # image: "./cover.jpg"
 tags: ["nds"]
-category: Highlight
+category: lovemeteNDer
 draft: false
 ---
 

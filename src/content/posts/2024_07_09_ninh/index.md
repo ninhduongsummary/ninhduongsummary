@@ -4,7 +4,7 @@ published: 2024-07-09
 description: "M.U.A Trọng hỏi và chính quyền trả lời"
 image: "./cover.png"
 tags: ["nds"]
-category: Highlight
+category: lovemeteNDer
 draft: false
 ---
 
