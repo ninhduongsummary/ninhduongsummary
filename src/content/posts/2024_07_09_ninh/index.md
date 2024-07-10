@@ -1,5 +1,5 @@
 ---
-title: Tán Dương toàn thư, bí kíp đỗ sau 26 ngày, phần trả lời gián tiếp
+title: Tán Dương toàn thư, bí kíp đỗ sau 26 ngày, khen Dương mọi nền tảng
 published: 2024-07-09
 description: "M.U.A Trọng hỏi và chính quyền trả lời"
 image: "./cover.png"
@@ -8,9 +8,18 @@ category: Highlight
 draft: false
 ---
 
-:::note
-"Vẻ đẹp rang ngời trên sân khấu k thể thiếu bàn tay của Trọng. Nhưng vẻ mộc mạc đơn sơ của D là điều N thích nhất" - anh N giấu tên!
-:::
+Tiktok: 
+
+Q: Nguyễn Tùng Dương mặt mộc is da best cmn ngầu
+
+N: Klq nhưng chú luôn thấy a D mặt mộc đzai hơn khi makeup
+
+
+Threads: 
+
+T: Chính quyền đâu! Tui muốn làm sáng tỏ dụ diệc này. Tui cần 3 mặt 1 lời💪🏻
+
+N: Vẻ đẹp rang ngời trên sân khấu k thể thiếu bàn tay của Trọng. Nhưng vẻ mộc mạc đơn sơ của D là điều N thích nhất" - anh N giấu tên!
 
 
 
