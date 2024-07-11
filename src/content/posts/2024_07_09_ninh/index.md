@@ -1,5 +1,5 @@
 ---
-title: Tán Dương toàn thư, bí kíp đỗ sau 26 ngày, khen Dương mọi nền tảng
+title: Vẻ mộc mạc đơn sơ của D là điều N thích nhất
 published: 2024-07-09
 description: "M.U.A Trọng hỏi và chính quyền trả lời"
 image: "./cover.png"

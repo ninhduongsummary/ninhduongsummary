@@ -10,7 +10,9 @@ draft: false
 
 
 
+Bonus:
 
+<img width="400" src="https://github.com/ninhduongsummary/ninhduongsummary/assets/174809384/9e4bec44-327d-406d-b681-c139b0bb0540">
 
 ### Source
 
