@@ -1,5 +1,5 @@
 ---
-title: Báo trí nói gì về MV 'anhduong', Lâm Phúc & Ninh Dương Story 
+title: Báo chí nói gì về MV 'anhduong', Lâm Phúc & Ninh Dương Story 
 published: 2024-06-11
 description: "Tổng hợp các bài báo đưa tin ra mắt MV anhduong"
 # image: "./cover.png"
