@@ -34,3 +34,5 @@ Ninh Dương Story quay MV không nhận cát-xê, không có ý định lấn s
 https://hoahoctro.tienphong.vn/ninh-duong-story-quay-mv-khong-nhan-cat-xe-khong-co-y-dinh-lan-san-showbiz-post1645555.tpo
 
 ### Stored 
+
+https://github.com/ninhduongsummary/ninhduongsummary/tree/main/stored/mv_anhduong_newpaper
