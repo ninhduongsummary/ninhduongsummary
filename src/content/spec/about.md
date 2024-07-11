@@ -7,7 +7,8 @@ Site Page: [ninhduong_summary](https://www.threads.net/@ninhduong_summary).
 
 - Nguyên tắc blog ở đây:
 
-```
+
+:::important
 
 Nội dung hoạt động chính: tổng hợp tin chính thống từ Ninh Dương Story hoặc đối tác hợp tác cùng Ninh Dương Story, từ các nền tảng mạng xã hội: Youtube, Tiktok, Facebook, Instagram, Threads…. 
 
@@ -32,7 +33,7 @@ Các nguyên tắc khác:
 
 6. Tuyên bố tôn trọng các nguyên tắc cộng đồng LGBTQ+, nguyên tắc của các nền tảng mạng xã hội nói chung, đạo đức và pháp luật Việt Nam.
 
-7. Tình huống bất khả kháng: đính chính thông tin, xin lỗi công khai, xóa bài viết(nếu cần, xóa cả tài khoản(nếu cần).
+7. Tình huống bất khả kháng: đính chính thông tin, xin lỗi công khai, xóa bài viết(nếu cần), xóa cả tài khoản(nếu cần).
 
-```
+:::
 
