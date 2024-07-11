@@ -58,3 +58,7 @@ draft: false
 
 
 
+
+### fast 
+
+git add -A && git commit -m "commit all" && git push 
