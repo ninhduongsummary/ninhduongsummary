@@ -23,6 +23,9 @@ N: Vẻ đẹp rang ngời trên sân khấu k thể thiếu bàn tay của Tr�
 
 
 
+<img width="400" src="https://github.com/ninhduongsummary/ninhduongsummary/assets/174809384/828aaf8c-861e-4434-9e1c-2ba9029868a4">
+
+
 <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@vuiveparttime/video/7389552734061595912" data-video-id="7389552734061595912" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@vuiveparttime" href="https://www.tiktok.com/@vuiveparttime?refer=embed">@vuiveparttime</a> Suộc duy nhất mà tôi edit cho anh ta 🍓🥵 <a title="nguyentungduong" target="_blank" href="https://www.tiktok.com/tag/nguyentungduong?refer=embed">#nguyentungduong</a> <a title="amiuoi" target="_blank" href="https://www.tiktok.com/tag/amiuoi?refer=embed">#amiuoi</a> <a title="ninhanhbui" target="_blank" href="https://www.tiktok.com/tag/ninhanhbui?refer=embed">#ninhanhbui</a> <a title="ninhduongstory" target="_blank" href="https://www.tiktok.com/tag/ninhduongstory?refer=embed">#ninhduongstory</a> <a target="_blank" title="♬ nhạc nền  - congchuabongbong" href="https://www.tiktok.com/music/nhạc-nền-congchuabongbong-7389552760477616912?refer=embed">♬ nhạc nền  - congchuabongbong</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
 
 

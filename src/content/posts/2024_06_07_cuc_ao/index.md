@@ -1,6 +1,6 @@
 ---
 title: Đóng đến cúc áo trên cùng vào cho tôi
-published: 2024-06-06
+published: 2024-06-07
 description: "Khi Bùi Tổng thấy thư ký đăng ảnh trên IG"
 image: "./cover.png"
 tags: ["nds"]
