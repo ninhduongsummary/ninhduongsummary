@@ -5,7 +5,7 @@ description: "cảm nhận về cách Ninh và Dương chia sẻ về những c�
 # image: "./cover.jpeg"
 tags: ["nds"]
 category: Mine
-draft: false
+draft: true
 ---
 
 Truyền thông Nội Dung Sến kiểu: mọi người cũng xứng đáng đón nhận niềm vui, chuyện không vui của mình, mình xin giữ cho riêng mình.
