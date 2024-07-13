@@ -1,8 +1,8 @@
 ---
 title: Chuyện hiểu nhau cuối ngày Lâm Phúc - Ninh Dương
 published: 2024-06-18
-# description: ""
-image: "./cover.jpg"
+description: ""
+# image: "./cover.jpg"
 tags: ["nds"]
 category: lovemeteNDer
 draft: false
