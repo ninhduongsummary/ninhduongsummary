@@ -62,3 +62,5 @@ draft: false
 ### fast 
 
 git add -A && git commit -m "commit all" && git push 
+
+git reset HEAD~1 
