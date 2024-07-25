@@ -64,3 +64,14 @@ draft: false
 git add -A && git commit -m "commit all" && git push 
 
 git reset HEAD~1 
+
+
+### ffmpeg
+
+```
+ffmpeg -i /Users/user_name/Downloads/input.mp4 -c:v libx265 -vtag hvc1 -c:a copy /Users/user_name/Downloads/input_low.mp4
+
+
+ffmpeg -i /Users/user_name/Downloads/input.mp4 -vf fps=1 /Users/user_name/Downloads/input_image/input_to_png%d.png
+
+```
