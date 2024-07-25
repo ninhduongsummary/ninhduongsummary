@@ -59,11 +59,14 @@ draft: false
 
 
 
-### fast 
+### Git 
 
+```
 git add -A && git commit -m "commit all" && git push 
 
 git reset HEAD~1 
+
+```
 
 
 ### ffmpeg
