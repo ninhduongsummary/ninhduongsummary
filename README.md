@@ -44,7 +44,7 @@ draft: false
 ### Story
 
 <video width="200" controls>
-  <source src="" type="video/mp4">
+  <source type="video/mp4" src="" >
 </video>
 
 
