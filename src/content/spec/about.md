@@ -1,3 +1,26 @@
+
+# For beginner
+
+|           | Ninh                                                                               | Dương                                                                                          |
+| --------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Tên       | Bùi Anh Ninh                                                                       | Nguyễn Tùng Dương                                                                              |
+| Ngày sinh | 18/04/1994                                                                         | 18/12/1997                                                                                     |
+| Học vấn   | Kinh Tế Kỹ Thuật Công Nghiệp (UNETI)                                               | Đại học Kinh tế Quốc Dân (NEU)                                                                 |
+| Facebook  | [https://www.facebook.com/buianhninh1804](https://www.facebook.com/buianhninh1804) | [https://www.facebook.com/nguyentungduong.1812](https://www.facebook.com/nguyentungduong.1812) |
+| Intagram  | [https://www.instagram.com/a.ninhh_/](https://www.instagram.com/a.ninhh_/)         | [https://www.instagram.com/tungduong_/](https://www.instagram.com/tungduong_/)                 |
+| Threads   | [https://www.threads.net/@a.ninhh_](https://www.threads.net/@a.ninhh_)             | [https://www.threads.net/@tungduong_](https://www.threads.net/@tungduong_)                     |
+| Tiktok    | [https://www.tiktok.com/@a.ninhh_](https://www.tiktok.com/@a.ninhh_)               | [https://www.tiktok.com/@_tungduong](https://www.tiktok.com/@_tungduong)                       |
+
+
+Ninh Dương Story 
+
+- Facebook: https://www.facebook.com/NinhDuongStory3616 
+
+- Youtube: https://www.youtube.com/@NinhDuongStory
+
+- Email: contact@ninhduongstory.com
+
+
 # About
 Site Page: [ninhduong_summary](https://www.threads.net/@ninhduong_summary).
 
