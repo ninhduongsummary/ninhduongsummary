@@ -78,3 +78,7 @@ ffmpeg -i /Users/user_name/Downloads/input.mp4 -c:v libx265 -vtag hvc1 -c:a copy
 ffmpeg -i /Users/user_name/Downloads/input.mp4 -vf fps=1 /Users/user_name/Downloads/input_image/input_to_png%d.png
 
 ```
+
+### Setup 
+
+https://docs.astro.build/en/guides/deploy/github/
