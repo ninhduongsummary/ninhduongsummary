@@ -12,19 +12,45 @@
 | Tiktok    | [https://www.tiktok.com/@a.ninhh_](https://www.tiktok.com/@a.ninhh_)               | [https://www.tiktok.com/@_tungduong](https://www.tiktok.com/@_tungduong)                       |
 
 
-Ninh Dương Story 
+### Ninh Dương Story 
 
 - Facebook: https://www.facebook.com/NinhDuongStory3616 
+  
+- Group Facebook: https://www.facebook.com/groups/1556151341802616
 
 - Youtube: https://www.youtube.com/@NinhDuongStory
 
 - Email: contact@ninhduongstory.com
 
 
+### Ninh Dương Circle 
+
+- Cửa hàng sữa Phượng Bình: https://www.facebook.com/profile.php?id=61556400222642
+  
+- Livin Homestay Ha Long: https://www.facebook.com/profile.php?id=100083649302536
+
+- 18 Blocks Dance Studio: https://www.facebook.com/18blocksdancestudio
+
+- Cách gửi quà cho gia đình nọ (đã thành công): Gửi đến Cửa hàng sữa Phượng Bình
+
+    + Tên người nhận: tên chính mình
+    + SĐT người nhận: SĐT chính mình. Thực tế shipper hiểu là quà nên không k có gọi nhận mà đưa trực tiếp đến cửa hàng vì đã quá quen với việc này.
+    + Địa chỉ nhận: 827 Lê Thánh Tông, Phường Bạch Đằng, Thành phố Hạ Long, Quảng Ninh.
+
+Lưu ý 1: Phường Bạch Bằng không phải Phường Hồng Hải như thông tin từ Google Maps 
+
+Lưu ý 2: Nên dùng Viettel Post để tiện quản lý đơn gửi đi 
+
+
+<img width="200" src="https://github.com/user-attachments/assets/8026a473-8f4e-4b88-a74c-1ed205a1279a" />
+
+
+
 # About
+
 Site Page: [ninhduong_summary](https://www.threads.net/@ninhduong_summary).
 
-- Blog cá nhân link đến [Ninh Dương Story](https://www.facebook.com/NinhDuongStory3616). 
+- Blog cá nhân link đến [Ninh Dương Story](https://www.facebook.com/NinhDuongStory3616). Chỉ có website này và account Threads [ninhduong_summary](https://www.threads.net/@ninhduong_summary) duy nhất, không có tài khoản mạng xã hội (Tiktok, Intagram, Facebook...) khác.
 
 - Năng lượng tích cực và không dùng với mục đích thương mại. 
 
