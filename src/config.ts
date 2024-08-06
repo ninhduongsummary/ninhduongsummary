@@ -41,6 +41,16 @@ export const navBarConfig: NavBarConfig = {
       url: 'https://www.threads.net/@ninhduong_summary',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
+    {
+      name: 'Facebook NDS',
+      url: 'https://www.facebook.com/NinhDuongStory3616',
+      external: true,                               
+    },
+    {
+      name: 'Youtube NDS',
+      url: 'https://www.youtube.com/@NinhDuongStory',
+      external: true,                               
+    },
   ],
 }
 
