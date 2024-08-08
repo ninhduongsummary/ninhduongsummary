@@ -4,7 +4,7 @@
 |           | Ninh                                                                               | Dương                                                                                          |
 | --------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | Tên       | Bùi Anh Ninh                                                                       | Nguyễn Tùng Dương                                                                              |
-| Ngày sinh | 18/04/1994                                                                         | 18/12/1997                                                                                     |
+| Năm sinh | 1994                                                                         | 1997                                                                                     |
 | Học vấn   | Kinh Tế Kỹ Thuật Công Nghiệp (UNETI)                                               | Đại học Kinh tế Quốc Dân (NEU)                                                                 |
 | Facebook  | [https://www.facebook.com/buianhninh1804](https://www.facebook.com/buianhninh1804) | [https://www.facebook.com/nguyentungduong.1812](https://www.facebook.com/nguyentungduong.1812) |
 | Intagram  | [https://www.instagram.com/a.ninhh_/](https://www.instagram.com/a.ninhh_/)         | [https://www.instagram.com/tungduong_/](https://www.instagram.com/tungduong_/)                 |
