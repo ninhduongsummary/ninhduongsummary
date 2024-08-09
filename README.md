@@ -72,13 +72,18 @@ git reset HEAD~1
 ### ffmpeg
 
 ```
-ffmpeg -i /Users/user_name/Downloads/input.mp4 -c:v libx265 -vtag hvc1 -c:a copy /Users/user_name/Downloads/input_low.mp4
+ffmpeg -i input.mp4 -c:v libx265 -vtag hvc1 -c:a copy input_low.mp4
 
 
-ffmpeg -i /Users/user_name/Downloads/input.mp4 -vf fps=1 /Users/user_name/Downloads/input_image/input_to_png%d.png
+ffmpeg -i input.mp4 -vf fps=1 input_image/input_to_png%d.png
+
+
+ffmpeg -i input.mov -qscale 0 output.mp4
 
 ```
 
 ### Setup 
+
+
 
 https://docs.astro.build/en/guides/deploy/github/
