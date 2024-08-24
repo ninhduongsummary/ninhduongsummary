@@ -67,7 +67,6 @@ git reset HEAD~1
 
 ```
 
-
 ### ffmpeg
 
 ```
@@ -80,6 +79,7 @@ ffmpeg -i input.mp4 -vf fps=1 input_image/input_to_png%d.png
 ffmpeg -i input.mov -qscale 0 output.mp4
 
 ```
+
 
 ### Setup 
 
