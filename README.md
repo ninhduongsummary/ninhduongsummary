@@ -67,6 +67,9 @@ git reset HEAD~1
 
 ```
 
+
+ffmpeg -i low_story_ig_duong_4.mp4 -c:v libx265 -vtag hvc1 -c:a copy low_low_story_ig_duong_4.mp4
+
 ### ffmpeg
 
 ```
