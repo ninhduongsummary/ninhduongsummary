@@ -84,5 +84,7 @@ ffmpeg -i input.mov -qscale 0 output.mp4
 ### Setup 
 
 
+ffmpeg -i ninh.mp4 -vf fps=1 ninh_output/input_to_png%d.png
+
 
 https://docs.astro.build/en/guides/deploy/github/
