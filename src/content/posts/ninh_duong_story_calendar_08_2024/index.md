@@ -30,6 +30,15 @@ Tháng 8 này có gì:
 - Hoạt động nổi bật nhất tháng(ý kiến cá nhân): Sự kiện Samsung x HHM, bài phỏng vấn VnExpress. 
 
 
+<img width="400" src="https://github.com/user-attachments/assets/2c56e3cd-98a8-4f61-b069-1ddb2cf5515b" />
+
+
+<img width="400" src="https://github.com/user-attachments/assets/226f2b68-2ae1-40ac-b13b-20a403f1eac2" />
+
+
+<img width="400" src="https://github.com/user-attachments/assets/9fe4f12b-9d06-4846-94f5-6afaac68e4d7" />
+
+
 
 ### Threads 
 
