@@ -87,3 +87,9 @@ ffmpeg -i input.mov -qscale 0 output.mp4
 
 
 https://docs.astro.build/en/guides/deploy/github/
+
+
+### Facebook 
+
+https://developers.facebook.com/docs/plugins/embedded-posts?locale=vi_VN
+
