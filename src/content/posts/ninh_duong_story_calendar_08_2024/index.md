@@ -1,6 +1,6 @@
 ---
 title: Ninh Dương Story Tháng 08/2024
-published: 2024-08-31
+published: 2024-09-01
 description: "Ninh Dương Story Calendar Tháng 8/2024 và Ninh Dương Story qua những con số"
 image: "./calendar.png"
 tags: ["nds"]
