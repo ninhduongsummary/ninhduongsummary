@@ -10,6 +10,8 @@ https://ninhduongsummary.github.io/ninhduongsummary/
 - online: hoạt đông liên quan đến nhãn hàng, đối tác 
 - nds: hoạt động riêng/sản phẩm riêng của ND 
 - vlog
+- charity : các hoạt động thiện nguyện 
+- interview: các bài phỏng vấn, show, tạp chí ... 
 
 
 ### category: 
