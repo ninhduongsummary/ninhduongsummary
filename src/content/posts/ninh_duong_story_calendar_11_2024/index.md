@@ -1,6 +1,6 @@
 ---
 title: Ninh Dương Story Tháng 11/2024
-published: 2024-21-01
+published: 2024-12-01
 description: "Ninh Dương Story Calendar Tháng 11/2024 và Ninh Dương Story qua những con số"
 image: "./calendar.png"
 tags: ["nds"]
