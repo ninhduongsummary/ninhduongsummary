@@ -66,6 +66,8 @@ draft: false
 ```
 git add -A && git commit -m "commit all" && git push 
 
+git restore .
+
 git reset HEAD~1 
 
 ```
